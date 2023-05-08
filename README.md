@@ -1,1 +1,3 @@
-Week1 - Day1 Contents
+Week1
+
+Practicing Git and GitHub
