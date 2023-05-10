@@ -13,5 +13,6 @@ public class Main {
 
         // block4: display the output
         System.out.println("Welcome to DI003, my name is " + myName);
+        System.out.println("I am " + age + " years old and my CGPA is " + grade);
     }
 }
